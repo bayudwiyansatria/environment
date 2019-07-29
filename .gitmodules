@@ -1,3 +1,4 @@
 [submodule "ibm/IBM-Platform-LSF-Environment"]
 	path = ibm/IBM-Platform-LSF-Environment
 	url = git@github.com:bayudwiyansatria/IBM-Platform-LSF-Environment.git
+	master = master
