@@ -10,6 +10,3 @@
 	path = apache/Apache-Spark-Environment
 	url = git@github.com:bayudwiyansatria/Apache-Spark-Environment.git
 	master = master
-[submodule "cloudflare/--force"]
-	path = cloudflare/--force
-	url = git@github.com:bayudwiyansatria/Cloudflare-Worker.git
