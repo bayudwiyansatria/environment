@@ -13,3 +13,4 @@
 [submodule "cloudflare/Cloudflare-Worker"]
 	path = cloudflare/Cloudflare-Worker
 	url = git@github.com:bayudwiyansatria/Cloudflare-Worker.git
+	master = master
