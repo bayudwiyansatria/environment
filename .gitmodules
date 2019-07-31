@@ -2,3 +2,9 @@
 	path = ibm/IBM-Platform-LSF-Environment
 	url = git@github.com:bayudwiyansatria/IBM-Platform-LSF-Environment.git
 	master = master
+[submodule "apache/Apache-Hadoop-Environment"]
+	path = apache/Apache-Hadoop-Environment
+	url = git@github.com:bayudwiyansatria/Apache-Hadoop-Environment.git
+[submodule "apache/Apache-Spark-Environment"]
+	path = apache/Apache-Spark-Environment
+	url = git@github.com:bayudwiyansatria/Apache-Spark-Environment.git
