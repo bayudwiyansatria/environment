@@ -22,3 +22,6 @@
 	path = kubernates/Kubernates-Environment
 	url = git@github.com:bayudwiyansatria/Kubernates-Environment.git
 	master = master
+[submodule "openvpn/OpenVPN-Environment"]
+	path = openvpn/OpenVPN-Environment
+	url = git@github.com:bayudwiyansatria/OpenVPN-Environment.git
