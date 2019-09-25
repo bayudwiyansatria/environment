@@ -14,3 +14,10 @@
 	path = cloudflare/Cloudflare-Worker
 	url = git@github.com:bayudwiyansatria/Cloudflare-Worker.git
 	master = master
+[submodule "apache/Apache-Kafka-Environment"]
+	path = apache/Apache-Kafka-Environment
+	url = git@github.com:bayudwiyansatria/Apache-Kafka-Environment.git
+	master = master
+[submodule "apache/Apache-Zookeeper-Environment"]
+	path = apache/Apache-Zookeeper-Environment
+	url = https://github.com/bayudwiyansatria/Apache-Zookeeper-Envrionment
