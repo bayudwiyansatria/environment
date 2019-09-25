@@ -30,3 +30,6 @@
 	path = vmware/VMWare-VSphere-Environment
 	url = git@github.com:bayudwiyansatria/VMWare-VSphere-Environment.git
 	master = master
+[submodule "apache/Apache-Zookeeper"]
+	path = apache/Apache-Zookeeper
+	url = git@github.com:bayudwiyansatria/Apache-Zookeeper-Environment.git
