@@ -18,10 +18,11 @@
 	path = apache/Apache-Kafka-Environment
 	url = git@github.com:bayudwiyansatria/Apache-Kafka-Environment.git
 	master = master
-[submodule "kubernates/Kubernates-Environment"]
+[submodule "kubernates/Kubernates-Environpment"]
 	path = kubernates/Kubernates-Environment
 	url = git@github.com:bayudwiyansatria/Kubernates-Environment.git
 	master = master
 [submodule "openvpn/OpenVPN-Environment"]
 	path = openvpn/OpenVPN-Environment
 	url = git@github.com:bayudwiyansatria/OpenVPN-Environment.git
+	master = master
