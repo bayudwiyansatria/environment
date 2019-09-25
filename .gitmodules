@@ -33,3 +33,4 @@
 [submodule "apache/Apache-Zookeeper-Environment"]
 	path = apache/Apache-Zookeeper-Environment
 	url = git@github.com:bayudwiyansatria/Apache-Zookeeper-Environment.git
+	master = master
