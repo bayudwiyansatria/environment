@@ -26,3 +26,6 @@
 	path = openvpn/OpenVPN-Environment
 	url = git@github.com:bayudwiyansatria/OpenVPN-Environment.git
 	master = master
+[submodule "vmware/VMWare-VSphere-Environment"]
+	path = vmware/VMWare-VSphere-Environment
+	url = git@github.com:bayudwiyansatria/VMWare-VSphere-Environment.git
