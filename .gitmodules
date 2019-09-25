@@ -18,3 +18,6 @@
 	path = apache/Apache-Kafka-Environment
 	url = git@github.com:bayudwiyansatria/Apache-Kafka-Environment.git
 	master = master
+[submodule "kubernates/Kubernates-Environment"]
+	path = kubernates/Kubernates-Environment
+	url = git@github.com:bayudwiyansatria/Kubernates-Environment.git
