@@ -29,3 +29,4 @@
 [submodule "vmware/VMWare-VSphere-Environment"]
 	path = vmware/VMWare-VSphere-Environment
 	url = git@github.com:bayudwiyansatria/VMWare-VSphere-Environment.git
+	master = master
