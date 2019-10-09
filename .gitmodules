@@ -34,3 +34,6 @@
 	path = apache/Apache-Zookeeper-Environment
 	url = git@github.com:bayudwiyansatria/Apache-Zookeeper-Environment.git
 	master = master
+[submodule "github/GitHub-Action-Release"]
+	path = github/GitHub-Action-Release
+	url = git@github.com:bayudwiyansatria/GitHub-Action-Release.git
