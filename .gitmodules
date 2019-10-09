@@ -37,3 +37,4 @@
 [submodule "github/GitHub-Action-Release"]
 	path = github/GitHub-Action-Release
 	url = git@github.com:bayudwiyansatria/GitHub-Action-Release.git
+	master = master
