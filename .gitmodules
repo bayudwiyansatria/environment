@@ -38,3 +38,6 @@
 	path = github/GitHub-Action-Release
 	url = git@github.com:bayudwiyansatria/GitHub-Action-Release.git
 	master = master
+[submodule "community/OpenMPI-Environment"]
+	path = community/OpenMPI-Environment
+	url = git@github.com:bayudwiyansatria/OpenMPI-Environment.git
