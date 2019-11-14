@@ -41,3 +41,4 @@
 [submodule "community/OpenMPI-Environment"]
 	path = community/OpenMPI-Environment
 	url = git@github.com:bayudwiyansatria/OpenMPI-Environment.git
+	master = master
