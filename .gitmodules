@@ -1,44 +1,55 @@
 [submodule "ibm/ibm-platform-lsf"]
 	path = ibm/ibm-platform-lsf
 	url = git@github.com:bayudwiyansatria/ibm-platform-lsf.git
+	branch = master
 	master = master
 [submodule "apache/apache-hadoop"]
 	path = apache/apache-hadoop
 	url = git@github.com:bayudwiyansatria/apache-hadoop.git
+	branch = master
 	master = master
 [submodule "apache/apache-spark"]
 	path = apache/apache-spark
 	url = git@github.com:bayudwiyansatria/apache-spark.git
+	branch = master
 	master = master
 [submodule "cloudflare/cloudflare-worker"]
 	path = cloudflare/cloudflare-worker
 	url = git@github.com:bayudwiyansatria/cloudflare-worker.git
+	branch = master
 	master = master
 [submodule "apache/apache-kafka"]
 	path = apache/apache-kafka
 	url = git@github.com:bayudwiyansatria/apache-kafka.git
+	branch = master
 	master = master
 [submodule "kubernates/kubernates"]
 	path = kubernates/kubernates
 	url = git@github.com:bayudwiyansatria/kubernates.git
+	branch = master
 	master = master
 [submodule "other/openvpn"]
 	path = other/openvpn
 	url = git@github.com:bayudwiyansatria/openvpn.git
+	branch = master
 	master = master
 [submodule "vmware/vmware-vsphere"]
 	path = vmware/vmware-vsphere
 	url = git@github.com:bayudwiyansatria/vmware-vsphere.git
+	branch = master
 	master = master
 [submodule "apache/apache-zookeeper"]
 	path = apache/apache-zookeeper
 	url = git@github.com:bayudwiyansatria/apache-zookeeper.git
+	branch = master
 	master = master
 [submodule "github/github-action-release"]
 	path = github/github-action-release
 	url = git@github.com:bayudwiyansatria/github-action-release.git
+	branch = master
 	master = master
 [submodule "other/openmpi"]
 	path = other/openmpi
 	url = git@github.com:bayudwiyansatria/openmpi.git
+	branch = master
 	master = master
