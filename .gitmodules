@@ -1,44 +1,44 @@
-[submodule "ibm/IBM-Platform-LSF-Environment"]
-	path = ibm/IBM-Platform-LSF-Environment
-	url = git@github.com:bayudwiyansatria/IBM-Platform-LSF-Environment.git
+[submodule "ibm/ibm-platform-lsf"]
+	path = ibm/ibm-platform-lsf
+	url = git@github.com:bayudwiyansatria/ibm-platform-lsf.git
 	master = master
-[submodule "apache/Apache-Hadoop-Environment"]
-	path = apache/Apache-Hadoop-Environment
-	url = git@github.com:bayudwiyansatria/Apache-Hadoop-Environment.git
+[submodule "apache/apache-hadoop"]
+	path = apache/apache-hadoop
+	url = git@github.com:bayudwiyansatria/apache-hadoop.git
 	master = master
-[submodule "apache/Apache-Spark-Environment"]
-	path = apache/Apache-Spark-Environment
-	url = git@github.com:bayudwiyansatria/Apache-Spark-Environment.git
+[submodule "apache/apache-spark"]
+	path = apache/apache-spark
+	url = git@github.com:bayudwiyansatria/apache-spark.git
 	master = master
-[submodule "cloudflare/Cloudflare-Worker"]
-	path = cloudflare/Cloudflare-Worker
-	url = git@github.com:bayudwiyansatria/Cloudflare-Worker.git
+[submodule "cloudflare/cloudflare-worker"]
+	path = cloudflare/cloudflare-worker
+	url = git@github.com:bayudwiyansatria/cloudflare-worker.git
 	master = master
-[submodule "apache/Apache-Kafka-Environment"]
-	path = apache/Apache-Kafka-Environment
-	url = git@github.com:bayudwiyansatria/Apache-Kafka-Environment.git
+[submodule "apache/apache-kafka"]
+	path = apache/apache-kafka
+	url = git@github.com:bayudwiyansatria/apache-kafka.git
 	master = master
-[submodule "kubernates/Kubernates-Environment"]
-	path = kubernates/Kubernates-Environment
-	url = git@github.com:bayudwiyansatria/Kubernates-Environment.git
+[submodule "kubernates/kubernates"]
+	path = kubernates/kubernates
+	url = git@github.com:bayudwiyansatria/kubernates.git
 	master = master
-[submodule "openvpn/OpenVPN-Environment"]
-	path = openvpn/OpenVPN-Environment
-	url = git@github.com:bayudwiyansatria/OpenVPN-Environment.git
+[submodule "other/openvpn"]
+	path = other/openvpn
+	url = git@github.com:bayudwiyansatria/openvpn.git
 	master = master
-[submodule "vmware/VMWare-VSphere-Environment"]
-	path = vmware/VMWare-VSphere-Environment
-	url = git@github.com:bayudwiyansatria/VMWare-VSphere-Environment.git
+[submodule "vmware/vmware-vsphere"]
+	path = vmware/vmware-vsphere
+	url = git@github.com:bayudwiyansatria/vmware-vsphere.git
 	master = master
-[submodule "apache/Apache-Zookeeper-Environment"]
-	path = apache/Apache-Zookeeper-Environment
-	url = git@github.com:bayudwiyansatria/Apache-Zookeeper-Environment.git
+[submodule "apache/apache-zookeeper"]
+	path = apache/apache-zookeeper
+	url = git@github.com:bayudwiyansatria/apache-zookeeper.git
 	master = master
-[submodule "github/GitHub-Action-Release"]
-	path = github/GitHub-Action-Release
-	url = git@github.com:bayudwiyansatria/GitHub-Action-Release.git
+[submodule "github/github-action-release"]
+	path = github/github-action-release
+	url = git@github.com:bayudwiyansatria/github-action-release.git
 	master = master
-[submodule "community/OpenMPI-Environment"]
-	path = community/OpenMPI-Environment
-	url = git@github.com:bayudwiyansatria/OpenMPI-Environment.git
+[submodule "other/openmpi"]
+	path = other/openmpi
+	url = git@github.com:bayudwiyansatria/openmpi.git
 	master = master
