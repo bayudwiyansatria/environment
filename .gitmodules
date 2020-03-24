@@ -23,9 +23,9 @@
 	url = git@github.com:bayudwiyansatria/apache-kafka.git
 	branch = master
 	master = master
-[submodule "kubernates/kubernates"]
-	path = kubernates/kubernates
-	url = git@github.com:bayudwiyansatria/kubernates.git
+[submodule "kubernetes/kubernetes"]
+	path = kubernetes/kubernetes
+	url = git@github.com:bayudwiyansatria/kubernetes.git
 	branch = master
 	master = master
 [submodule "other/openvpn"]
